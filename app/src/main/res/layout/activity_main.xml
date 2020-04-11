@@ -69,6 +69,10 @@
                 android:layout_height="wrap_content"
                 android:text="Resultado"
                 android:textSize="18sp" />
+
+            <ListView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent" />
         </LinearLayout>
     </LinearLayout>
 </ScrollView>
